@@ -4,7 +4,7 @@ var router = express.Router();
 
 
 /* GET users listing. */
-var globalData;
+
 
 
 
